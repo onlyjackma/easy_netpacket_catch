@@ -1,2 +1,2 @@
-please modify the file /usr/include/net/if_arp.h
+please modify the file /usr/include/net/if_arp.h before compile this program
 in struct arphdr make #if 0 to #if 1 to make make the program work correct!
